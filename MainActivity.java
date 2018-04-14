@@ -122,13 +122,6 @@ public class MainActivity extends AppCompatActivity {
                 pendingOperation = "=";
             }
         });
-
-
-        /********** ADDITIONS FEATURES AND IMPROVEMENTS /******************
-         * Display integer numbers unless they are double
-         * Make it fit all screen sizes
-         *
-         */
     }
 
     @Override
